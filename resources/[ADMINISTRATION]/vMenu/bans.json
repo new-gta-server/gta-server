@@ -1,0 +1,94 @@
+[
+  {
+    "playerName": "D0wG0W",
+    "identifiers": [
+      "steam:1100001189dad64",
+      "license:0e733a8329b114ed35356bc135525fe902e1b4d2",
+      "xbl:2535461074014862",
+      "live:1055518354876131",
+      "discord:362966811953856512",
+      "license2:0e733a8329b114ed35356bc135525fe902e1b4d2",
+      "ip:109.134.155.199"
+    ],
+    "bannedUntil": "2021-04-25T22:02:17",
+    "banReason": "No Fear Car KIll",
+    "bannedBy": "Sid Bullet"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Manile69"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "2021-05-06T13:12:19",
+    "banReason": "Banned by staff.troll",
+    "bannedBy": "WELCOME TO MY WORLD, \"Loup\""
+  },
+  {
+    "playerName": "Tyler Davis",
+    "identifiers": [
+      "steam:11000011085e0bc",
+      "license:ff5f42d3845062829bd5cd02fb65b83eb007fab4",
+      "discord:250687886536474635",
+      "license2:ff5f42d3845062829bd5cd02fb65b83eb007fab4",
+      "ip:176.144.236.18"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Manile69"
+  },
+  {
+    "playerName": "YzzeeN",
+    "identifiers": [
+      "steam:11000010a097640",
+      "license:4cb6cc1f5c69792ee0df80e79d0e3040029eef3c",
+      "xbl:2535448444378959",
+      "live:985157473325696",
+      "discord:159731947206213633",
+      "license2:4cb6cc1f5c69792ee0df80e79d0e3040029eef3c",
+      "ip:91.173.197.12"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "WELCOME TO MY WORLD, \"Loup\""
+  },
+  {
+    "playerName": "adidasfeed",
+    "identifiers": [
+      "steam:110000114751d37",
+      "license:5381e07e6cb26264505c83f454e805094a847418",
+      "discord:460918782962040833",
+      "fivem:405569",
+      "ip:94.107.37.246"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Manile69"
+  },
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "free kill punch ",
+    "bannedBy": "Archer Sterling"
+  },
+  {
+    "playerName": "Manile69",
+    "identifiers": [
+      "steam:110000139bfde7d",
+      "license:d386021845322ffddbc6b4d250264030d3a950e9",
+      "xbl:2533274975656665",
+      "live:1899946744554298",
+      "discord:822766021181440021",
+      "license2:d386021845322ffddbc6b4d250264030d3a950e9",
+      "ip:83.159.5.22"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Banned by staff.",
+    "bannedBy": "Archer Sterling"
+  }
+]

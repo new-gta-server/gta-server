@@ -1,0 +1,30 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>..\..\gitan\stream\1h.ymap</Item>
+    <Item>..\..\gitan\stream\2h.ymap</Item>
+    <Item>..\..\gitan\stream\3h.ymap</Item>
+    <Item>..\..\gitan\stream\cs1_occl_01.ymap</Item>
+    <Item>..\..\gitan\stream\door.ymap</Item>
+    <Item>rebel.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames>
+    <Item>..\..\gitan\stream\cs1_15c_0.ybn</Item>
+    <Item>..\..\gitan\stream\cs1_15c_4.ybn</Item>
+    <Item>..\..\gitan\stream\cs1_15c_5.ybn</Item>
+    <Item>..\..\gitan\stream\hei_cs1_15c_0.ybn</Item>
+    <Item>..\..\gitan\stream\hei_cs1_15c_4.ybn</Item>
+    <Item>..\..\gitan\stream\hei_cs1_15c_5.ybn</Item>
+    <Item>..\..\gitan\stream\hi@cs1_15c_0.ybn</Item>
+    <Item>..\..\gitan\stream\hi@cs1_15c_1.ybn</Item>
+    <Item>..\..\gitan\stream\hi@cs1_15c_4.ybn</Item>
+    <Item>..\..\gitan\stream\hi@cs1_15c_5.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

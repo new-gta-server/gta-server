@@ -1,0 +1,11 @@
+{
+    "serverPassword": "AM2021",
+    "serverName": "Last Dream",
+    "serverWebsite": "https://discord.gg/YSSx5saphG",
+    "serverLogo": "https://cdn.discordapp.com/attachments/823581070552989736/829107648623542312/SPOILER_b75784ea70c46b48333ae7787ed97f13gz.png",
+
+    "cardTitle": "Accès refusé. Veuillez saisir le mot de passe du serveur",
+    "enterText": "Enter",
+    "passwordPlaceholder": "Mot de passe",
+    "wrongPasswordMessage" : "Ce n'est pas le bon mot de passe."
+}

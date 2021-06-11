@@ -1,0 +1,22 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>h4_islandx_mansion.ymap</Item>
+    <Item>h4_islandx_mansion_entrance_fence.ymap</Item>
+    <Item>h4_islandx_mansion_props.ymap</Item>
+    <Item>h4_mansion_gate_broken.ymap</Item>
+    <Item>h4_mansion_gate_closed.ymap</Item>
+    <Item>portes_cayo_perico.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>h4_dlc_int_03_h4.ytyp</Item>
+    <Item>h4_dlc_int_05_h4.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

@@ -1,0 +1,28 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_dt1_occl_04.ymap</Item>
+    <Item>hei_dt1_rd1_strm_1.ymap</Item>
+    <Item>molo_tabac_milo_.ymap</Item>
+    <Item>dt1_22_long_0.ymap</Item>
+    <Item>hei_dt1_22_long_0.ymap</Item>
+    <Item>dt1_rd1_strm_1.ymap</Item>
+    <Item>hei_dt1_rd1.ymap</Item>
+    <Item>dt1_rd1.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>molo_tabac.ytyp</Item>
+    <Item>vw_prop_vw_storage.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>hei_dt1_22_0.ybn</Item>
+    <Item>hi@hei_dt1_22_0.ybn</Item>
+    <Item>molo_tabac_col.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

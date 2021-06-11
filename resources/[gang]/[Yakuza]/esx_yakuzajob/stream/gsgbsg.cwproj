@@ -1,0 +1,30 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ss1_06_long_0.ymap</Item>
+    <Item>apa_ss1_06_strm_0.ymap</Item>
+    <Item>apa_ss1_rd1_strm_0.ymap</Item>
+    <Item>apa_ss1_rd1_critical_0.ymap</Item>
+    <Item>apa_ss1_occl_03.ymap</Item>
+    <Item>fluorine4305_dedrest_logo.ymap</Item>
+    <Item>fluorine4305_dedrest_milo_.ymap</Item>
+    <Item>ss1_13_strm_0.ymap</Item>
+    <Item>apa_ss1_13_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>types1.ytyp</Item>
+    <Item>fluorine4305_dedrest.ytyp</Item>
+    <Item>v_bins.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>fluorine4305_dedrest_col.ybn</Item>
+    <Item>hi@ss1_13_0.ybn</Item>
+    <Item>ss1_13_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

@@ -1,0 +1,19 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>portes crusifix.ymap</Item>
+    <Item>dt1_06_strm_0.ymap</Item>
+    <Item>dsgbbde\hei_dt1_06_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames>
+    <Item>hi@dt1_06_0.ybn</Item>
+    <Item>dt1_06_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
